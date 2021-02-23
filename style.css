@@ -2,17 +2,17 @@
           
           margin: 0;
           padding: 0;
-          box - sizing: border - box;
+          box-sizing: border-box;
           }
 
 .navigation-bar {
           background-color: #192529;
           color: #3b51a1;
-          line - height: 100px;
+          line-height: 100px;
           height: 100px;
           width: 100%;
           padding: 10px;
-          border - bottom: 0.25 px solid grey:
+          border-bottom: 0.25 px solid grey;
           font - size: 30 px;
           position: absolute;
           font-family: 'Noto Sans JP', sans-serif;
@@ -24,12 +24,12 @@
           float: left;
           height: inherit;
           line - height: inherit;
-          padding:: 25 px;
+          padding: 25 px;
           }
 .navbar ul li {
-          text - align: center;
+          text-align: center;
           padding: 10px;
           }
 h1 {
-          font - size: 100 px;
+          font-size: 100 px;
           }
