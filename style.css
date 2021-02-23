@@ -12,8 +12,7 @@
           height: 100px;
           width: 100%;
           padding: 10px;
-          border-bottom: 0.25 px solid grey;
-          font - size: 30 px;
+          font-size: 30 px;
           position: absolute;
           font-family: 'Noto Sans JP', sans-serif;
           }
@@ -22,7 +21,7 @@
           }
 .navbar ul {
           float: left;
-          height: inherit;
+          height: 100%;
           line - height: inherit;
           padding: 25 px;
           }
