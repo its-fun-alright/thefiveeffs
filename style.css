@@ -1,4 +1,10 @@
 <style>
+body {
+  color: ##FFFFFF;
+  background-color: #333;
+   font-family: 'Noto Sans JP', sans-serif;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -17,7 +23,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: 'Noto Sans JP', sans-serif;
+ 
 }
 
 li a:hover {
