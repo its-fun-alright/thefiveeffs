@@ -1,4 +1,4 @@
-*, *:before, *:after {
+*{
           
           margin: 0;
           padding: 0;
@@ -6,6 +6,7 @@
           }
 
 .navigation-bar {
+          display: flex;
           background-color: #181826;
           color: #3b51a1;
           line-height: 100px;
@@ -15,6 +16,9 @@
           font-size: 30 px;
           position: absolute;
           font-family: 'Noto Sans JP', sans-serif;
+          li {
+            display: inline;
+             }
           }
 .navbar a {
           color: #3b51a1;
