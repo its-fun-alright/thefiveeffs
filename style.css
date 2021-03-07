@@ -22,20 +22,20 @@ header {
     padding: 50px 10%;
 }
 
-.nav__links {
+.n_l {
     list-style: none;
 }
 
-.nav__links li{
+.n_l li{
     display: inline-block;
     padding: 0px 20px;
 }
 
-.nav__links a {
+.n_l a {
     transition: all 0.3 ease 0s;
 }
 
-.nav__links a:hover {
+.n_l a:hover {
     color: #eddff7;
 }
 
