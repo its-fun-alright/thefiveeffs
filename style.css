@@ -1,34 +1,24 @@
-<style>
-body {
-  color: #b9a1f4;
-  background-color: #333;
-  
-}
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-   
+@import url('https://fonts.googleapis.com/css2?family=Nobile:wght@500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #152421;
 }
 
-li {
-  float: left;
+li, a {
+    font-family: "Nobile", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration: none;
 }
 
-li a {
-  display: block;
-  color: #b9a1f4;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-   
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 10%;
 }
 
-li a:hover {
-  background-color: #111;
-}
-</style>
-
-       
