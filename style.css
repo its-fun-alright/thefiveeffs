@@ -4,13 +4,29 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #152421;
+    background-color: #32233d;
 }
 
 li, a {
     font-family: "Nobile", sans-serif;
     font-weight: 500;
     font-size: 40px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: "Nobile", sans-serif;
+    font-weight: 500;
+    font-size: 100 px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-family: "Nobile", sans-serif;
+    font-weight: 400;
+    font-size: 75 px;
     color: #ffffff;
     text-decoration: none;
 }
