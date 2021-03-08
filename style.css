@@ -22,6 +22,10 @@ header {
     padding: 30px 10%;
 }
 
+nav {
+    order: 1;
+}
+
 .n_l {
     list-style: none;
 }
@@ -29,6 +33,10 @@ header {
 .n_l li{
     display: inline-block;
     padding: 0px 20px;
+}
+
+.n_l li:nth-child(1) {
+    padding: 0 20px 0 0;
 }
 
 .n_l a {
