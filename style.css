@@ -10,7 +10,7 @@
 li, a {
     font-family: "Nobile", sans-serif;
     font-weight: 500;
-    font-size: 40px;
+    font-size: 35px;
     color: #ffffff;
     text-decoration: none;
 }
@@ -18,7 +18,7 @@ li, a {
 h1 {
     font-family: "Nobile", sans-serif;
     font-weight: 500;
-    font-size: 100 px;
+    font-size: 300 px;
     color: #ffffff;
     text-decoration: none;
 }
@@ -26,7 +26,7 @@ h1 {
 p {
     font-family: "Nobile", sans-serif;
     font-weight: 400;
-    font-size: 75 px;
+    font-size: 150 px;
     color: #ffffff;
     text-decoration: none;
 }
