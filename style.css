@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nobile:wght@500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@1,900&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
@@ -16,19 +16,22 @@ li, a {
 }
 
 h1 {
-    font-family: "Nobile", sans-serif;
+    font-family: "Vollkorn", sans-serif;
     font-weight: 500;
-    font-size: 300 px;
+    font-size: 250px;
+    align-items: center;
     color: #ffffff; 
     text-decoration: none;
+    margin: 100px;
 }
 
 p {
     font-family: "Nobile", sans-serif;
     font-weight: 400;
-    font-size: 150 px;
+    font-size: 80px;
     color: #ffffff;
     text-decoration: none;
+    padding: 0px 5%;
 }
 
 header {
@@ -60,7 +63,7 @@ nav {
 }
 
 .n_l a:hover {
-    color: #eddff7;
+    color: #c7abdb;
 }
  
 
