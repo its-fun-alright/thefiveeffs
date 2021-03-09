@@ -43,6 +43,12 @@ p {
     padding: 0px 5%;
 }
 
+.gradient {
+    background-image: linear-gradient(to right, #0a1c4d, #6d4ecc, #e3bff2);
+    border-radius: 6px;
+    padding: 3px 6px;
+}
+
 header {
     display: flex;
     justify-content: space-between;
