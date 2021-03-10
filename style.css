@@ -37,10 +37,15 @@ h2 {
 h3 {
     font-family: "Nobile", sans-serif;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 28px;
     align-items: center;
     color: #ffffff;
     text-decoration: none;
+}
+
+::selection {
+    background-color: #8ec96b;
+    color: #ffffff;
 }
 
 p {
