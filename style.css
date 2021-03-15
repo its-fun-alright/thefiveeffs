@@ -15,6 +15,14 @@ li, a {
     text-decoration: none;
 }
 
+.cremebrulee.jpg {
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 h1 {
     font-family: "Sura", sans-serif;
     font-weight: 500;
