@@ -15,12 +15,17 @@ li, a {
     text-decoration: none;
 }
 
-.cremebrulee.jpg {
-    height: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+body, html {
+  height: 100%;
+}
+
+.img-1 {
+  background-: url("img_parallax.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
